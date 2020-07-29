@@ -1,1 +1,1 @@
-https://bitbucket.org/javarosa/javarosa-hg
+https://bitbucket.org/javarosa/javarosa-hg/wiki
